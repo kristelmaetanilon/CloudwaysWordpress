@@ -1,6 +1,4 @@
 <?php
-
-echo "this is a sample edit from local";
 /**
  * The base configuration for WordPress
  *
